@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "empyrean-app-408116",
+  "private_key_id": "2f1176541c84f6504475410bf35942e1dcf64537",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDstHLFxvXsysQN\npWcpaTwbN30T7/0c/q9cjfRf3VSv8yN4YZYU7JY0ZnDfAHzgwqdNsjZZ0IwfAxSt\nv7SMpBpPDxjWUXIchptSiTs9W/qr0nFC2ocqlAr7YeSr08M7Qh2g62TnB9MkcsZj\nJ2hFhXwu1dtA0a6PCGNkCtMxFFWB8mvERMnlSlZHqVCgWKkSeH86yWEESouFQEdQ\nVFyIo3CAkFQR9c87E0zWtO5+/Bml2HzV+SxIndIvHyWPG1oxIs0F2hysD6gC2sMw\nCGNgkLS3uXxwcQmTQC9DNqQHM3mmr1zkovKmfYUnaVPJ9HYOPfpvmKHuZlGELbOw\nXlrSvzd1AgMBAAECggEAC87jR3YDZStm7qy9nq18nXmRNtb0e2D1YKp6BY4OFqC/\nhRa0xoW+s+dk9V756KCu327Tpft3Gs6/L8nxNa+Ap3wZkVfeF5aCD5k/q3H+XI11\n1hYYNmaZvXLwYr9m5rq64MD1cOgG34BBRzq04y9dFuoKUyuF2xlNE5vNos4AoQGQ\ng4R7t1GcmwuQ2jVdk7Wi4GeubxSHjGOyv6lvrKsahrqmZgipFX0HBi+E72gd8lkh\nxaLbmlUoF7599SpBXMOYeRTRiKnMR5EPrmsbT8ksM1OtTn/aKgpBrlR96m5k4HaP\nhAPJJwlsqZZTfQ1te/lZGTssPKDUrP35Ym23PyZSoQKBgQD6N0R1KbdIQwWrzGTT\nkYvHXIbKmKhEvpd0nldAUiPBJgqfPDRnJUm0ae5NZjjmsTQumVutgNWOWf/0maRp\nlUiLjiYVeRjcPJHL/VbrZ5XtPXoBcNNa0XK/dyyXngkRfFx24p6/4F/3vd7qmT69\n5SKlbZzU5Wdn7YC5PujHkVzP4QKBgQDyLTmla37jyuyfWkeolUdM3iheYclG51rr\nl0bdadsDnelnTvTEn6ueui7QUbpPtxPmyQqhhTFReAtSW8M4dUil+qpsTiz/dxQM\ncHapJL+RSbevSoYawtGczoEGvmfSwDdkbBXnu/0ejMgmnGMRUfd3rpTUvnYt7P44\nMljWBe9qFQKBgQDMMcwpPUj4rNF0+VGTIuUKZiUOMvSnXU6meg3ETQQmvQ/QEUbG\nojR7CjPScEihYx2tpbOebVRaXnI2QChfjddtJC1KOtAh80AcU/vaEmfU+uWVRWkG\nZYUaYXw/o1XNMksXLivVdJt8xzOjCjqcp+DVVhW13By+QKFbC87WBnfSoQKBgDNh\n9xYq7ZxFRNk2nXeeXKdph2UnGD6L/dV4nleCCy8ERS5fKT3CpvYhiKc4f/BD5twT\nkcbdbK5dawGJaK1E7SoSOjCKka+OQ1m0TujqXB7mZiuyAywQY8sCYYvdwEeN8vLC\noA8v6q+drSXMDpTxMDFbgEZ3Nrndy75+qCyYy8hVAoGADhqf/IUIuFmYyKwb5rv1\n9Q5p8TNRYYrnN54MT8Qd+ZysPQH5D+kEfAJQhSa0ollHAjnpGM3jq6hTQ46z/R5K\n46x1TvbpHWcqkhA0jnPMgU/l/ks5KBy5jScuZFNXttCnJyRQU7l+7UVCxaH2GV05\nLcwsZbmMe7CWFY4Elck75Gg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-gcp-editor@empyrean-app-408116.iam.gserviceaccount.com",
+  "client_id": "111402664757638241495",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-gcp-editor%40empyrean-app-408116.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

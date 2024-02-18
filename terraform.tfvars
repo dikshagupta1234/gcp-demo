@@ -1,5 +1,5 @@
 credentials       = "credentials.json"
-name              = "demo"
+name              = "myvm1"
 gcp_project       = "empyrean-app-408116"
 region            = "us-central1"
 zone              = "us-central1-a"

@@ -5,7 +5,7 @@ resource "google_compute_instance" "demo_compute_instance" {
 
   boot_disk {
     initialize_params {
-      image = "ubuntu-os-cloud/ubuntu-1804-lts" #project/family
+      image = "ubuntu-os-cloud/ubuntu-2004-lts" #project/family
     }
   }
 

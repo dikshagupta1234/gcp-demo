@@ -1,6 +1,6 @@
 terraform {
   backend "gcs" {
-    bucket      = "terraform-state-still-toolbox-356811"
+    bucket      = "romil-bucket"
     prefix      = "terraform"
     credentials = "credentials.json"
   }
